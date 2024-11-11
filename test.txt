@@ -1,4 +1,5 @@
 hey there is a git repo..
 i am tracking git..
 from BD
-i am aCS student
+i am a CS student
+currently studing in UIU
